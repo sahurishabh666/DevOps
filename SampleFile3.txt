@@ -1,0 +1,2 @@
+This is samplefile3
+another change to check '-am' and '-m' difference in git commit.
