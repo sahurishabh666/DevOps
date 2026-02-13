@@ -1,2 +1,6 @@
 This is the test file.
+<<<<<<< Updated upstream
 testing Stash_Sample_new thing to check
+=======
+testing Stash_Sample
+>>>>>>> Stashed changes
