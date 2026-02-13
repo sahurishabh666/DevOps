@@ -1,2 +1,3 @@
 This is samplefile2
 New change to check the git diff
+Comparing same file across the branches
